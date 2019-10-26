@@ -4,3 +4,7 @@
 [submodule "quickstart/themes/beautifulhugo"]
 	path = quickstart/themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "quickstart/johntiger1.github.io"]
+	path = quickstart/johntiger1.github.io
+	url = git@github.com:johntiger1/johntiger1.github.io.git
+	branch = master

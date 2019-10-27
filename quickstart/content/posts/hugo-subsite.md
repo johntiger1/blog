@@ -11,6 +11,7 @@ You may have noticed that this blog exists under my main Github personal website
 
 In short:
 1. Follow this [guide] (https://gohugo.io/hosting-and-deployment/hosting-on-github/), except get the output of a `hugo` build to go to your main github site repo.
-2. This involves configuring some submodule stuff.
+
+2. This involves configuring some submodule stuff, which is a crazy topic but super interesting. In fact, even though it took me a few hours to set up my Hugo blog site (compared to a much faster/easier process I suspect with Jekyll or Gatsby), the practical lessons/experience it taught me about submodules is invaluable!  
 
 If there's more interest, I'll write a more in-depth resource! 
